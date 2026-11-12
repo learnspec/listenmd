@@ -52,6 +52,10 @@ A `.listen.md` file is a script, not audio: turning it into a listenable episode
 | BadgeMD: micro-credentials | [learnspec/badgemd](https://github.com/learnspec/badgemd) |
 | CertMD: macro-credentials | [learnspec/certmd](https://github.com/learnspec/certmd) |
 
+## Maintainers
+
+This repository is part of the [LearnSpec](https://learnspec.org) suite, initiated and maintained by [memoneo](https://memoneo.app). Issues and pull requests are welcome.
+
 ## License
 
 [MIT](./LICENSE)
